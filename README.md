@@ -11,7 +11,7 @@ just download the executable
 
 it has two ways of use
 
-first, you can first, you can drag a text file to the executable and it will create the .ahk file with the same name
+first, you can drag a text file to the executable and it will create the .ahk file with the same name
 
 but you can also just open the executable and it will ask you for the text. it will give you the result on a file named "result.ahk"
 
